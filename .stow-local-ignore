@@ -1,0 +1,10 @@
+# Ignore files and directories associated with git.
+\.git
+\.gitignore
+
+# Ignore other miscellaneous files.
+^/README.*
+
+# Ignore the install and other scripts.
+^/scripts/
+^/install
