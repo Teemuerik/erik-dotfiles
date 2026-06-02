@@ -5,8 +5,9 @@ return {{
         "hrsh7th/nvim-cmp", -- Completion engine.
     },
     config = function()
-        require("lspconfig").cssls.setup({
-            capabilities = require("cmp_nvim_lsp").default_capabilities(),
+        vim.lsp.config("cssls", {
+            capabilities = require("cmp_nvim_lsp").default_capabilities()
         })
+        vim.lsp.enable({"cssls"})
     end,
 }}

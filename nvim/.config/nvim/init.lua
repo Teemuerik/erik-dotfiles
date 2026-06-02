@@ -25,6 +25,9 @@ vim.opt.tabstop = 4
 vim.opt.shiftwidth = 4
 vim.opt.expandtab = true
 
+-- Set buffer options.
+vim.opt.hidden = true
+
 -- Create an augroup for file-specific indentation.
 vim.api.nvim_create_augroup("IndentSettings", { clear = true })
 
