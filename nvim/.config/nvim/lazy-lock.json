@@ -1,4 +1,5 @@
 {
+  "base16-nvim": { "branch": "master", "commit": "23e5128eb5f629c29532c24a1e733cbe019f05bb" },
   "cmp-buffer": { "branch": "main", "commit": "b74fab3656eea9de20a9b8116afa3cfc4ec09657" },
   "cmp-nvim-lsp": { "branch": "main", "commit": "cbc7b02bb99fae35cb42f514762b89b5126651ef" },
   "cmp-path": { "branch": "main", "commit": "c642487086dbd9a93160e1679a1327be111cbc25" },
@@ -6,7 +7,7 @@
   "nvim-autopairs": { "branch": "master", "commit": "7b9923abad60b903ece7c52940e1321d39eccc79" },
   "nvim-cmp": { "branch": "main", "commit": "a1d504892f2bc56c2e79b65c6faded2fd21f3eca" },
   "nvim-colorizer.lua": { "branch": "master", "commit": "664c0b7cea1de71f8b65dfe951b7996fc3e6ccde" },
-  "nvim-lspconfig": { "branch": "master", "commit": "07dff35e7c95288861200b788ef32d6103f107f0" },
+  "nvim-lspconfig": { "branch": "master", "commit": "229b79051b380377664edc4cbd534930154921a1" },
   "nvim-treesitter": { "branch": "master", "commit": "cf12346a3414fa1b06af75c79faebe7f76df080a" },
   "nvim-ts-autotag": { "branch": "main", "commit": "88c1453db4ba7dd24131086fe51fdf74e587d275" },
   "orgmode": { "branch": "master", "commit": "5f7fbf738c500f6cdd15f0353e7fe2ad5e5f7a35" },

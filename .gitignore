@@ -1,0 +1,2 @@
+# Ignore niri backups.
+niri/.config/niri/*.backup*
