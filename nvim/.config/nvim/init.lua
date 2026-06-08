@@ -16,6 +16,9 @@ require("config.load_keymaps")
 -- Load orgmode config.
 require("config.org_config")
 
+-- Load lualine config.
+require("config.lualine_config")
+
 -- Use relative line numbers.
 vim.wo.number = true
 vim.wo.relativenumber = true
